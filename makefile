@@ -1,5 +1,4 @@
 # Makefile test
-# By Popps
 
 TestCode: TestCode.o
 	g++ -o TestCode.out TestCode.cpp
@@ -9,4 +8,3 @@ clean:
 	rm -f *.o
 
 # End makefile test
-# Tsk tsk tsk
